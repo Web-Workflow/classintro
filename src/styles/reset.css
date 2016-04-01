@@ -15,9 +15,10 @@ h1, h2, h3, h4, h5, h6 {
 a {
 	text-decoration: none;
 	outline: none;
+	color: #fff;
 }
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 ol, ul {
     list-style: none;
